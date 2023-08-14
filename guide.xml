@@ -1,27 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.3.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Belo Horizonte/MG  Playboy TV ">
-    <display-name lang="pt">Belo Horizonte/MG  Playboy TV </display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Belo Horizonte/MG  Sextreme">
-    <display-name lang="pt">Belo Horizonte/MG  Sextreme</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Belo Horizonte/MG  Venus">
-    <display-name lang="pt">Belo Horizonte/MG  Venus</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Belo Horizonte/MG  Sexy Hot">
-    <display-name lang="pt">Belo Horizonte/MG  Sexy Hot</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Belo Horizonte/MG  Playboy HD">
-    <display-name lang="pt">Belo Horizonte/MG  Playboy HD</display-name>
-    <url>http://www.clarotv.com.br</url>
-  </channel>
-  <channel id="Belo Horizonte/MG  Futura">
-    <display-name lang="pt">Belo Horizonte/MG  Futura</display-name>
-    <url>http://www.clarotv.com.br</url>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.netcombo.com.br</url>
   </channel>
 </tv>
